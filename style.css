@@ -185,7 +185,7 @@ body{
   .about-boxh2{
     font-size: 2.5em;
   }
-  #services {
+  #projects {
     background-color: var(--background);
     padding: 4em 2em;
     color: white;
